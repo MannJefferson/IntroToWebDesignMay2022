@@ -5,9 +5,9 @@ body{
 }
   
 #profilePhoto{
-    width: 25%;
-    height:30%;
-    border-radius: 50%;
+    width: 20%;
+    height:25%;
+    border-radius:50%;
     border: 3px solid orange;
   }
 

@@ -17,7 +17,7 @@ body {
 
 #profilePhoto {
   width: 10%;
-  height:50%;
+  height: 50%;
   border-radius: 50%;
   border: 5px solid #808080;
 }
@@ -66,4 +66,28 @@ footer {
 
 a:hover {
   color: red;
+}
+
+/*the below is for testing purposes
+.menu {
+  text-decoration: underline;
+}
+.menu:hover {
+  color: coral;
+} */
+
+#education{
+  text-decoration: underline;
+}
+
+#experience {
+  text-decoration: underline;
+}
+
+#skills{
+  text-decoration: underline;
+}
+
+#interests{
+  text-decoration: underline;
 }
